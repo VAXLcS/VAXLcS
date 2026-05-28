@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Olá! Eu sou o Lucas 👋<br><br>Sou programador focado em **C** e, nas horas vagas, podes encontrar-me a dominar as linhas de Lanes no **Deadlock** 🎮.<br><br>---<br><br>### 🛠️ O que faço<br>* 💻 Desenvolvimento e algoritmos em **C** (baixo nível, performance e lógica).<br>* 🕹️ Gamer competitivo — atualmente focado em evoluir no **Deadlock**.<br>* 🚀 Sempre à procura de novos desafios e de otimizar código.<br><br>### 🌐 Vamos jogar ou programar?<br>Se quiseres trocar ideias sobre projetos em C, discutir estratégias de Deadlock ou apenas dar uns cliques, adiciona-me:<br><br>* 👾 **Discord:** `VAX_LUCAS`<br><br>---<br><br>*“Em C, tu controlas tudo. No Deadlock, controlo o mapa.”* 🫡
+# Olá! Eu sou o Lucas 👋<br><br>Sou programador focado em **C** e, nas horas vagas, podes encontrar-me a dominar as linhas de Lanes no **Deadlock** 🎮.<br><br>---<br><br>### 🛠️ O que faço<br>* 💻 Desenvolvimento e algoritmos em **C** (baixo nível, performance e lógica).<br>* 🕹️ Gamer competitivo — atualmente focado em evoluir no **Deadlock**.<br>* 🚀 Sempre à procura de novos desafios e de otimizar código.<br><br>### 🌐 Vamos jogar ou programar?<br>Se quiseres trocar ideias sobre projetos em C, discutir estratégias de Deadlock ou apenas dar uns cliques, adiciona-me:<br><br>* 👾 **Discord:** `VAX_LUCAS`<br><br>---<br><br>
 
 
 ## 🌐 Socials:
